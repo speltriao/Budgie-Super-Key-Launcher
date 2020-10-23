@@ -1,6 +1,8 @@
 # Budgie-Super-Key-Launcher
 <p>(Super) Dirty, two lines workaround for using Budgie Desktop with Super + 1, Super + 2 ... Window key binding: </p>
 <br>
+
+![](example.gif)
 <p>1-) Download firefox.sh. Check if set as an executable.</p><br>
 <p>2-) Inside it, replace all "Firefox" instances with the name of the program you want.</p><br>
 <p>3-) Set the keyboard shortcut for the position you want. Eg: In Budgie, Firefox is the first program on my window list. So I'm going to the key binding Super+1 to the path to firefox.sh</p><br>
