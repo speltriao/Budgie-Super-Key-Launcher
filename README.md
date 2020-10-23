@@ -1,1 +1,7 @@
 # Budgie-Super-Key-Launcher
+(Super) Dirty, two lines workaround for using Budgie Desktop with Super + 1, Super + 2 ... Window key binding: 
+
+1-) Download firefox.sh. Check if set as an executable.
+2-) Inside it, replace all "Firefox" instances with the name of the program you want.
+3-) Set the keyboard shortcut for the position you want. Eg: In Budgie, Firefox is the first program on my window list. So I'm going to the key binding Super+1 to the path to firefox.sh
+4-) Repeat the process for your pinned applications (it will not work for unpinned applications, as this script is very simple and doesn't really know the position of the icons in the taskbar). But it would be a nice addition. 
