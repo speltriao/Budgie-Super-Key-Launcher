@@ -1,5 +1,5 @@
 # Budgie-Super-Key-Launcher
-<p>(Super) Dirty, four lines workaround for using Budgie Desktop with Super + 1, Super + 2 ... Window key binding: </p>
+<p>(Super) Four lines workaround for using Budgie Desktop with Super + 1, Super + 2 ... Window key binding: </p>
 
 <br>
 
