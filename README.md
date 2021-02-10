@@ -1,5 +1,5 @@
 # Budgie-Super-Key-Launcher
-<p>Four lines script for using Budgie Desktop with Super + 1, Super + 2 ... Window key binding: </p>
+<p>Script for using Budgie Desktop with Super + 1, Super + 2 ... Window key binding: </p>
 
 <br>
 
